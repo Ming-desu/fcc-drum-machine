@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# FCC: Drum Machine
 
+A drum machine website requirement for the Front End Development Libraries Projects in freeCodeCamp.org!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Installation
+
+Install first all the required dependencies for this project.
+
+### `npm init`
 
 ## Available Scripts
 
